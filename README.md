@@ -10,19 +10,29 @@ In terms of actually training the model, training it with more states and more i
 For example, here is an example sonnet generated with 30 states and 100 iterations:
 
   Me fears beauty and the roses of noon,
+  
   With my blanks mind or what i wouldst in pen,
+  
   O’er-snowed had not when my grown to live of son,
+  
   Attending fleet’st it and in me though of men.
 
   Of beauty and will reasons memory,
+  
   Compared nor her and and do I either face,
+  
   Or when days to beauty eternity,
+  
   Nor hearts falsely ground couplement give place.
 
   Equal love speaking as gone poverty,
+  
   And like a that not of more that new thee,
+  
   Older for to absence of injury,
+  
   ’oncord i will thee things of melancholy.
 
   Kingdoms or nothing of not the world’s of give,
+  
   Grief and suffered and thee yet mine right live.
